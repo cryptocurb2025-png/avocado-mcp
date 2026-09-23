@@ -82,6 +82,11 @@ never as verified, and AVOCADO never holds or moves funds.
 If this bridge disappeared tomorrow, nothing about AVOCADO's guarantees would
 change. That is the intended amount of importance for it to have.
 
+## Reporting a problem
+
+Security issues: see [SECURITY.md](SECURITY.md), or email info@avocadorh.xyz.
+Anything else: open an issue.
+
 ## Links
 
 - Quickstart, tools and the error model: <https://projects.avocadorh.xyz/developers>

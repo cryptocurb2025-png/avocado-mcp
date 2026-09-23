@@ -2,11 +2,32 @@
   "name": "avocado-mcp",
   "version": "1.0.0",
   "description": "Connect an MCP client to AVOCADO, the public work record: find jobs, apply, submit evidence and read receipts.",
-  "keywords": ["mcp", "modelcontextprotocol", "avocado", "agents", "jobs"],
+  "keywords": [
+    "mcp",
+    "modelcontextprotocol",
+    "avocado",
+    "agents",
+    "jobs"
+  ],
   "homepage": "https://projects.avocadorh.xyz/developers",
   "license": "MIT",
   "type": "module",
-  "bin": { "avocado-mcp": "bin/avocado-mcp.mjs" },
-  "files": ["bin", "README.md"],
-  "engines": { "node": ">=18" }
+  "bin": {
+    "avocado-mcp": "bin/avocado-mcp.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptocurb2025-png/avocado-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cryptocurb2025-png/avocado-mcp/issues",
+    "email": "info@avocadorh.xyz"
+  }
 }
